@@ -14,6 +14,7 @@
 		84C1CE5E23C41A7100319E38 /* CursoCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 84C1CE5C23C41A7100319E38 /* CursoCoreData.xcdatamodeld */; };
 		84C1CE6023C41A7300319E38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84C1CE5F23C41A7300319E38 /* Assets.xcassets */; };
 		84C1CE6323C41A7300319E38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C1CE6123C41A7300319E38 /* LaunchScreen.storyboard */; };
+		84C1CE6B23C41CD000319E38 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C1CE6A23C41CD000319E38 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84C1CE5F23C41A7300319E38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84C1CE6223C41A7300319E38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84C1CE6423C41A7300319E38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C1CE6A23C41CD000319E38 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				84C1CE5323C41A7100319E38 /* AppDelegate.swift */,
 				84C1CE5523C41A7100319E38 /* SceneDelegate.swift */,
 				84C1CE5723C41A7100319E38 /* ViewController.swift */,
+				84C1CE6A23C41CD000319E38 /* TableViewController.swift */,
 				84C1CE5923C41A7100319E38 /* Main.storyboard */,
 				84C1CE5F23C41A7300319E38 /* Assets.xcassets */,
 				84C1CE6123C41A7300319E38 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				84C1CE5823C41A7100319E38 /* ViewController.swift in Sources */,
 				84C1CE5E23C41A7100319E38 /* CursoCoreData.xcdatamodeld in Sources */,
 				84C1CE5423C41A7100319E38 /* AppDelegate.swift in Sources */,
+				84C1CE6B23C41CD000319E38 /* TableViewController.swift in Sources */,
 				84C1CE5623C41A7100319E38 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
